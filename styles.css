@@ -1,0 +1,196 @@
+body {
+  background-color: #FAEDF0;
+  text-align: center;
+  position: relative;
+  font-family: serif;
+}
+
+h1 {
+  margin-top: 20px;
+}
+
+.logo {
+  position: absolute;
+  top: 4px;
+  right: 50px;
+}
+
+hr {
+  height: 5px;
+  border-width: 0;
+  color: white;
+  background-color: white;
+}
+
+.address {
+
+  position: absolute;
+  top: 135px;
+  right: 0;
+}
+.addres{
+  word-spacing: 8px;
+}
+
+h2 {
+  font-family: cursive;
+}
+
+.academic1 {
+  position: absolute;
+  top: 450px;
+  left: 175px;
+}
+
+.academic2 {
+  position: absolute;
+  top: 450px;
+  right: 170px;
+}
+
+.grades, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 15px;
+}
+
+.skill{
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 15px;
+}
+thead{
+  background-color: #E5EFC1;
+}
+
+tbody{
+  background-color: #EEEEEE;
+}
+ul {
+  display: inline-block;
+  text-align: left;
+}
+
+.books1 {
+  position: absolute;
+  top: 1200px;
+  left: 500px;
+}
+
+.books2 {
+  position: absolute;
+  top: 1200px;
+  right: 500px;
+}
+
+.sk {
+  background-color: #B8FFF9;
+}
+
+.ill {
+  background-color: #FBF8F1;
+}
+
+.skill-row2 {
+  position: absolute;
+  top: 1630px;
+  left: 10px;
+}
+
+.skill-row3 {
+  position: absolute;
+  top: 1760px;
+  left: 90px;
+}
+
+.skill-row4 {
+  position: absolute;
+  top: 1910px;
+  left: 10px;
+}
+
+.skill-row5 {
+  position: absolute;
+  top: 2060px;
+  left: 90px;
+}
+
+.skill-row6 {
+  position: absolute;
+  top: 2220px;
+  left: 10px;
+}
+
+.skill-row7 {
+  position: absolute;
+  top: 1630px;
+  right: 10px;
+}
+
+.skill-row8 {
+  position: absolute;
+  top: 1760px;
+  right: 90px;
+}
+
+.skill-row9 {
+  position: absolute;
+  top: 1910px;
+  right: 10px;
+}
+
+.skill-row10 {
+  position: absolute;
+  top: 2060px;
+  right: 90px;
+}
+
+.skill-row11 {
+  position: absolute;
+  top: 2220px;
+  right: 10px;
+}
+
+.project1{
+  position: absolute;
+  top:2380px;
+  left: 250px;
+}
+.project2{
+  position: absolute;
+  top:2380px;
+  right:250px;
+}
+.ex{
+  background-color: #B8FFF9;
+}
+.tra{
+  background-color: #FBF8F1;
+}
+.ext {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 15px;
+}
+
+.tel{
+  position: absolute;
+  top: 3360px;
+  left: 650px;
+}
+
+.linked{
+  position: absolute;
+  top: 3360px;
+  right:650px;
+}
+
+.btn{
+  position: absolute;
+  top: 3360px;
+  left:738px;
+}
+
+.bottom-container{
+  background-color: #D1D1D1;
+}
